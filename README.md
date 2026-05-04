@@ -10,17 +10,17 @@
 
 ---
 
-## 🎯 Why This Boilerplate?
+## Why This Boilerplate?
 
 Building an AI SaaS from scratch takes **months**. This boilerplate gives you:
 
-- ✅ **Complete authentication** (Clerk) – Email + Social login
-- ✅ **Full payment system** (Stripe) – Subscriptions + Webhooks
-- ✅ **Credits system** – Track usage, limit free tier, unlimited for Pro
-- ✅ **4 Working AI Examples** – Chat, Content Gen, Image Gen, PDF Summarizer
-- ✅ **Admin Dashboard** – User management, metrics, revenue tracking
-- ✅ **Production-ready** – Deploy to Vercel in minutes
-- ✅ **Beautiful UI** – Shadcn UI + Tailwind CSS, dark mode included
+- **Complete authentication** (Clerk) – Email + Social login
+- **Full payment system** (Stripe) – Subscriptions + Webhooks
+- **Credits system** – Track usage, limit free tier, unlimited for Pro
+- **4 Working AI Examples** – Chat, Content Gen, Image Gen, PDF Summarizer
+- **Admin Dashboard** – User management, metrics, revenue tracking
+- **Production-ready** – Deploy to Vercel in minutes
+- **Beautiful UI** – Shadcn UI + Tailwind CSS, dark mode included
 
 **Save 100+ hours of development time.** Focus on your unique features, not boilerplate.
 
