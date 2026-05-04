@@ -1,4 +1,4 @@
-# AI SaaS Starter 2025 🚀
+# AI SaaS Starter 2025 
 
 > **Launch your AI-powered SaaS in 48 hours** – Complete Next.js boilerplate with OpenAI integration, payments, and 4 working AI examples.
 
